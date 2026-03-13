@@ -47,7 +47,7 @@ This workflow removes the translation layer between design and code:
 
 ## Presentation Slides
 
-📎 [View the full slide deck](./Saadaf_Mohsin_-_A4_-_AI_Tools_Exploration.pdf)
+
 
 ---
 
