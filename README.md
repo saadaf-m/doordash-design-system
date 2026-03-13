@@ -42,7 +42,8 @@ This workflow removes the translation layer between design and code:
 2. Connected Claude Code to Figma via the remote MCP server
 3. Prompted Claude Code to read the Figma file and generate a DoorDash-inspired React component library
 4. Deployed to GitHub Pages
-
+<br>
+The key thing to note here is that for this to work, the MCP needs to be able to read something. So I decided to start with a basic _already-made_ design system I found from Figma community.
 ---
 
 ## Presentation Slides
