@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doordash-design-system/static/css/main.92679085.css",
+    "main.js": "/doordash-design-system/static/js/main.be49f4f9.js",
+    "static/js/453.b0ce3429.chunk.js": "/doordash-design-system/static/js/453.b0ce3429.chunk.js",
+    "index.html": "/doordash-design-system/index.html",
+    "main.92679085.css.map": "/doordash-design-system/static/css/main.92679085.css.map",
+    "main.be49f4f9.js.map": "/doordash-design-system/static/js/main.be49f4f9.js.map",
+    "453.b0ce3429.chunk.js.map": "/doordash-design-system/static/js/453.b0ce3429.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92679085.css",
+    "static/js/main.be49f4f9.js"
+  ]
+}
